@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **HappyBavarian07#0285**
 
-- ⚡ Fun fact **I mainly program in Java, but can do a little something in the other Languages aswell**
+- ⚡ Fun fact **I mainly program in Java, but can do a little something in the other Languages aswell. I can also use the Java Discord JDA and i have experience in Machine Learning and Rocket League Bots and training Neural Networks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
