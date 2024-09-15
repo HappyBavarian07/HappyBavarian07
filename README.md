@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Admin-Panel](https://github.com/HappyBavarian07/Admin-Panel)
 
-- 🌱 I’m currently learning **C, C++, C#**
+- 🌱 I’m currently learning **Python, ML, TextGen**
 
 - 💬 Ask me about **anything really**
 
