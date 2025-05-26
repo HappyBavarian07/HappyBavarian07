@@ -49,7 +49,7 @@
 <ul>
   <li>Dive deeper into NLP text-generators</li>
   <li>Prototype a Home Assistant dashboard driven by physical keypads</li>
-  <li>Train a custom color-recognition model for the LEGO sorter</li>
+  <li>Train a custom color-recognition model for a LEGO piece sorter</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
